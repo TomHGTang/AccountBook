@@ -8,7 +8,7 @@
     <Language code="zh-Hans" />
     <Language code="zh" />
   </Languages>
-  <App xmlns="" ProductID="{732a2204-b66f-481e-8f61-0f9ef721ec66}" Title="小账房" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="汤和果" Description="一个方便、简单、快捷的记账工具。" Publisher="浙江师范大学计算机科学与技术121班" PublisherID="{c115c332-4e76-4c36-911b-e29cba03ed60}">
+  <App xmlns="" ProductID="{732a2204-b66f-481e-8f61-0f9ef721ec66}" Title="小账房" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="汤和果" Description="一个方便、简单、快捷的记账工具。" Publisher="汤和果" PublisherID="{c115c332-4e76-4c36-911b-e29cba03ed60}">
     <IconPath IsRelative="true" IsResource="false">Skin\Logo.scale-240.png</IconPath>
     <Capabilities></Capabilities>
     <Tasks>

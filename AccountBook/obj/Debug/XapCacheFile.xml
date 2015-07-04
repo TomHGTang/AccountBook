@@ -1,5 +1,5 @@
-﻿<xapCache source="D:\大学\软件工程\AccountBook\AccountBook\Bin\Debug\AccountBook_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2015-06-30 00:33:50">
-  <file source="D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\AccountBook.dll" archivePath="AccountBook.dll" lastWriteTime="2015-06-30 00:33:47" />
+﻿<xapCache source="D:\大学\软件工程\AccountBook\AccountBook\Bin\Debug\AccountBook_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2015-07-04 16:10:42">
+  <file source="D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\AccountBook.dll" archivePath="AccountBook.dll" lastWriteTime="2015-07-04 16:10:40" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\accountLogo.png" archivePath="Images\accountLogo.png" lastWriteTime="2015-06-25 22:19:01" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\appbar.add.rest.png" archivePath="Images\appbar.add.rest.png" lastWriteTime="2012-01-01 14:53:34" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\appbar.cancel.rest.png" archivePath="Images\appbar.cancel.rest.png" lastWriteTime="2012-01-01 14:53:34" />
@@ -36,5 +36,5 @@
   <file source="D:\大学\软件工程\AccountBook\Dll\Microsoft.Windows.Controls.DataVisualization.dll" archivePath="Microsoft.Windows.Controls.DataVisualization.dll" lastWriteTime="2011-10-16 16:47:30" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Skin\Logo.scale-240.png" archivePath="Skin\Logo.scale-240.png" lastWriteTime="2015-06-24 11:51:29" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Skin\Square71x71Logo.scale-240.png" archivePath="Skin\Square71x71Logo.scale-240.png" lastWriteTime="2015-06-24 11:03:05" />
-  <file source="D:\大学\软件工程\AccountBook\AccountBook\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2015-06-30 00:33:50" />
+  <file source="D:\大学\软件工程\AccountBook\AccountBook\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2015-07-04 15:37:21" />
 </xapCache>

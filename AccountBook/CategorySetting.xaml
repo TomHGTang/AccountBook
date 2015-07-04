@@ -76,22 +76,18 @@
             
             <!--支出分类设置界面-->
             <controls:PivotItem Header="支出分类">
-                <ScrollViewer Margin="0,-19,0,0">                    
-                    <Grid>
-                        <ListBox x:Name="OutListBox" Margin="12,0,12,0" Width="440" ItemTemplate="{StaticResource CategoryDataTemplate}" >
-                        </ListBox>                      
-                    </Grid>
-                </ScrollViewer>
+                <Grid Margin="0,-30,0,12">
+                    <ListBox x:Name="OutListBox" Margin="12,0,12,0" Width="440" ItemTemplate="{StaticResource CategoryDataTemplate}" >
+                    </ListBox>
+                </Grid>
             </controls:PivotItem>
 
             <!--收入分类设置用界面-->
             <controls:PivotItem Header="收入分类">
-                <ScrollViewer>
-                    <Grid>
+                <Grid Margin="0,-30,0,12">
                         <ListBox x:Name="InListBox" Margin="12,0,12,0" Width="440" ItemTemplate="{StaticResource CategoryDataTemplate}" >
                         </ListBox>
                     </Grid>
-                </ScrollViewer>
             </controls:PivotItem>            
         </controls:Pivot>
     </Grid>

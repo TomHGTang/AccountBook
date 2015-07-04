@@ -52,52 +52,50 @@
 
         <!--ContentPanel - 在此处放置其他内容-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,-25,12,12">
-            <ScrollViewer>
-                <ListBox x:Name="listAccount" >
-                    <ListBox.ItemTemplate>
-                        <!--流水卡片-->
-                        <DataTemplate>
-                            <StackPanel Orientation="Horizontal" Margin="12,0,0,0" Height="75">
-                                <StackPanel Background="#FFEB6416" Height="50">
-                                    <TextBlock  Foreground="White" FontSize="45" 
+            <ListBox x:Name="listAccount" >
+                <ListBox.ItemTemplate>
+                    <!--流水卡片-->
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal" Margin="12,0,0,0" Height="75">
+                            <StackPanel Background="#FFEB6416" Height="50">
+                                <TextBlock  Foreground="White" FontSize="45" 
                                             Text="{Binding Type, Converter={StaticResource VoucherTypeConverter}}" TextWrapping="NoWrap"   
                                             Margin="3 -8 3 0"
                                             Width="45" Height="56"/>
-                                </StackPanel>
-                                <StackPanel Orientation="Vertical" Margin="8 0 0 0">
-                                    <StackPanel Orientation="Horizontal">
-                                        <TextBlock  Foreground="#FFEB6416" FontSize="30" 
+                            </StackPanel>
+                            <StackPanel Orientation="Vertical" Margin="8 0 0 0">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock  Foreground="#FFEB6416" FontSize="30" 
                                             Text="{Binding Category}" TextWrapping="NoWrap" 
                                             TextAlignment="Right" HorizontalAlignment="Left" 
                                             VerticalAlignment="Center" Width="auto"   />
-                                        <TextBlock  Foreground="#FFEB6416" FontSize="30" 
+                                    <TextBlock  Foreground="#FFEB6416" FontSize="30" 
                                         Text="{Binding Account1, Converter={StaticResource VoucherAccount1Converter}}" TextWrapping="NoWrap" 
                                         TextAlignment="Right" HorizontalAlignment="Left" 
                                         VerticalAlignment="Center" Width="auto"   />
-                                        <TextBlock  Foreground="#FFEB6416" FontSize="30" 
+                                    <TextBlock  Foreground="#FFEB6416" FontSize="30" 
                                         Text="{Binding Account2, Converter={StaticResource VoucherAccount2Converter}}" TextWrapping="NoWrap" 
                                         TextAlignment="Right" HorizontalAlignment="Left" 
                                         VerticalAlignment="Center" Width="auto"   />
-                                    </StackPanel>
-                                    <StackPanel Orientation="Horizontal">
-                                        <TextBlock  Foreground="#FFEB6416"  Text="{Binding Desc,  Converter={StaticResource VoucherDescConverter}}" 
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock  Foreground="#FFEB6416"  Text="{Binding Desc,  Converter={StaticResource VoucherDescConverter}}" 
                                                 TextWrapping="NoWrap" HorizontalAlignment="Left" 
                                                 TextAlignment="Left" VerticalAlignment="Center" Width="118" />
-                                        <TextBlock  Foreground="#FFEB6416" 
+                                    <TextBlock  Foreground="#FFEB6416" 
                                                 Text="{Binding DT, Converter={StaticResource VoucherTypeConverter}}" 
                                                 TextWrapping="NoWrap" HorizontalAlignment="Left" 
                                                 VerticalAlignment="Center" Width="auto"  />
-                                    </StackPanel>
                                 </StackPanel>
-                                <TextBlock  Foreground="#FFEB6416"  Width="130" FontSize="48"
+                            </StackPanel>
+                            <TextBlock  Foreground="#FFEB6416"  Width="130" FontSize="48"
                                         Text="{Binding Money}" 
                                         TextWrapping="NoWrap" TextAlignment="Right"
                                         HorizontalAlignment="Right" VerticalAlignment="Center" />
-                            </StackPanel>
-                        </DataTemplate>
-                    </ListBox.ItemTemplate>
-                </ListBox>
-            </ScrollViewer>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
         </Grid>
     </Grid>
 
