@@ -1,0 +1,224 @@
+E:\wp7实验\AccountBook\AccountBook\Bin\Debug\ApplicationIcon.png
+E:\wp7实验\AccountBook\AccountBook\Bin\Debug\Background.png
+E:\wp7实验\AccountBook\AccountBook\Bin\Debug\AccountBook.dll
+E:\wp7实验\AccountBook\AccountBook\Bin\Debug\AccountBook.pdb
+E:\wp7实验\AccountBook\AccountBook\Bin\Debug\AppManifest.xaml
+E:\wp7实验\AccountBook\AccountBook\Bin\Debug\AccountBook.xap
+E:\wp7实验\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\wp7实验\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\wp7实验\AccountBook\AccountBook\obj\Debug\ResolveAssemblyReference.cache
+E:\wp7实验\AccountBook\AccountBook\obj\Debug\App.g.i.cs
+E:\wp7实验\AccountBook\AccountBook\obj\Debug\MainPage.g.i.cs
+E:\wp7实验\AccountBook\AccountBook\obj\Debug\AccountBook.g.resources
+E:\wp7实验\AccountBook\AccountBook\obj\Debug\AccountBook.dll
+E:\wp7实验\AccountBook\AccountBook\obj\Debug\AccountBook.pdb
+E:\wp7实验\AccountBook\AccountBook\obj\Debug\XapCacheFile.xml
+E:\wp7实验\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\wp7实验\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.dll
+E:\wp7实验\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\Bin\Debug\AccountBook.dll
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\Bin\Debug\AccountBook.pdb
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\Bin\Debug\AppManifest.xaml
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\Bin\Debug\AccountBook.xap
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.dll
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\obj\Debug\ResolveAssemblyReference.cache
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\obj\Debug\App.g.i.cs
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\obj\Debug\MainPage.g.i.cs
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\obj\Debug\AccountBook.g.resources
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\obj\Debug\AccountBook.dll
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\obj\Debug\AccountBook.pdb
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\obj\Debug\XapCacheFile.xml
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\obj\Debug\AddAccount.g.i.cs
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+D:\wp7实例书籍\个人记账应用\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\Bin\Debug\AccountBook.dll
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\Bin\Debug\AccountBook.pdb
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\Bin\Debug\AppManifest.xaml
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\Bin\Debug\AccountBook.xap
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.dll
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\obj\Debug\ResolveAssemblyReference.cache
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\obj\Debug\App.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\obj\Debug\AddAccount.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\obj\Debug\MainPage.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\obj\Debug\MouthReport.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\obj\Debug\YearReport.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\obj\Debug\AccountBook.g.resources
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\obj\Debug\AccountBook.dll
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\obj\Debug\AccountBook.pdb
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\obj\Debug\XapCacheFile.xml
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\Bin\Debug\Microsoft.Windows.Controls.DataVisualization.dll
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\obj\Debug\ChartPage.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\obj\Debug\AddCategory.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\obj\Debug\Note.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\obj\Debug\Search.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook\AccountBook\obj\Debug\Setting.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\Bin\Debug\AccountBook.dll
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\Bin\Debug\AccountBook.pdb
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\Bin\Debug\AppManifest.xaml
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\Bin\Debug\AccountBook.xap
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.dll
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\Bin\Debug\Microsoft.Windows.Controls.DataVisualization.dll
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\obj\Debug\AccountBook.csprojResolveAssemblyReference.cache
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\obj\Debug\App.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\obj\Debug\AddAccount.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\obj\Debug\AddCategory.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\obj\Debug\ChartPage.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\obj\Debug\MainPage.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\obj\Debug\MouthReport.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\obj\Debug\Note.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\obj\Debug\Search.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\obj\Debug\Setting.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\obj\Debug\YearReport.g.i.cs
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\obj\Debug\AccountBook.g.resources
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\obj\Debug\AccountBook.dll
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\obj\Debug\AccountBook.pdb
+E:\wp7实验\AccountBook20120119\AccountBook20120120\AccountBook\AccountBook\obj\Debug\XapCacheFile.xml
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\Bin\Debug\AccountBook.dll
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\Bin\Debug\AccountBook.pdb
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\Bin\Debug\AppManifest.xaml
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\Bin\Debug\AccountBook.xap
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.dll
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\Bin\Debug\Microsoft.Windows.Controls.DataVisualization.dll
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.xml
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\obj\Debug\App.g.cs
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\obj\Debug\AddAccount.g.cs
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\obj\Debug\AddCategory.g.cs
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\obj\Debug\ChartPage.g.cs
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\obj\Debug\MainPage.g.cs
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\obj\Debug\MouthReport.g.cs
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\obj\Debug\Note.g.cs
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\obj\Debug\Search.g.cs
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\obj\Debug\Setting.g.cs
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\obj\Debug\YearReport.g.cs
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\obj\Debug\AccountBook.g.resources
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\obj\Debug\AccountBook.dll
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\obj\Debug\AccountBook.pdb
+F:\WindowsPhone8\《深入浅出Windows Phone 8应用开发》\源代码\第24章\AccountBook\AccountBook\obj\Debug\XapCacheFile.xml
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\AccountBook.dll
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\AccountBook.pdb
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\AppManifest.xaml
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\AccountBook.xap
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.dll
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Microsoft.Windows.Controls.DataVisualization.dll
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.xml
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\App.g.cs
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddAccount.g.cs
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddCategory.g.cs
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\ChartPage.g.cs
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MainPage.g.cs
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MouthReport.g.cs
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\Note.g.cs
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\Search.g.cs
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\Setting.g.cs
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\YearReport.g.cs
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.g.resources
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.dll
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.pdb
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\XapCacheFile.xml
+F:\WindowsPhone8\深入浅出Windows Phone 8应用开发_终稿\源代码\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.csprojResolveAssemblyReference.cache
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\AccountBook.dll
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\AccountBook.pdb
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\AppManifest.xaml
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\AccountBook_Debug_AnyCPU.xap
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.dll
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Microsoft.Windows.Controls.DataVisualization.dll
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\App.g.cs
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddAccount.g.cs
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddCategory.g.cs
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\ChartPage.g.cs
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MainPage.g.cs
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MouthReport.g.cs
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\Note.g.cs
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\Search.g.cs
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\Setting.g.cs
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\YearReport.g.cs
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.g.resources
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.dll
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.pdb
+E:\wp8深入浅出\深入浅出Windows Phone 8应用开发_终稿\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\XapCacheFile.xml
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\AccountBook.dll
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\AccountBook.pdb
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\AppManifest.xaml
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\AccountBook_Debug_AnyCPU.xap
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\Bin\Debug\Microsoft.Windows.Controls.DataVisualization.dll
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.csprojResolveAssemblyReference.cache
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\App.g.cs
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddAccount.g.cs
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AddCategory.g.cs
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\ChartPage.g.cs
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MainPage.g.cs
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\MouthReport.g.cs
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\Note.g.cs
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\Search.g.cs
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\Setting.g.cs
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\YearReport.g.cs
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.g.resources
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.dll
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\AccountBook.pdb
+C:\Users\和果\Desktop\源代码2\第24章\Examples_24_1\AccountBook\AccountBook\obj\Debug\XapCacheFile.xml
+D:\大学\软件工程\AccountBook\AccountBook\Bin\Debug\AccountBook.dll
+D:\大学\软件工程\AccountBook\AccountBook\Bin\Debug\AccountBook.pdb
+D:\大学\软件工程\AccountBook\AccountBook\Bin\Debug\AppManifest.xaml
+D:\大学\软件工程\AccountBook\AccountBook\Bin\Debug\Properties\WMAppManifest.xml
+D:\大学\软件工程\AccountBook\AccountBook\Bin\Debug\AccountBook_Debug_AnyCPU.xap
+D:\大学\软件工程\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.dll
+D:\大学\软件工程\AccountBook\AccountBook\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+D:\大学\软件工程\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\大学\软件工程\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+D:\大学\软件工程\AccountBook\AccountBook\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\大学\软件工程\AccountBook\AccountBook\Bin\Debug\Microsoft.Windows.Controls.DataVisualization.dll
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\AccountBook.csprojResolveAssemblyReference.cache
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\App.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\AddAccount.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\ChartPage.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\MainPage.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\MouthReport.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\Search.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\YearReport.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\AccountBook.g.resources
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\AccountBook.dll
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\AccountBook.pdb
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\XapCacheFile.xml
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\CategorySetting.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\StoreSetting.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\AccountSetting.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\AddNewAccount.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\AccountList.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\MoneyChart.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\StoreChart.g.cs

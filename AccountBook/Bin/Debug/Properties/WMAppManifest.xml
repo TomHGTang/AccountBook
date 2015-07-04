@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+  <DefaultLanguage xmlns="" code="zh-Hans" />
+  <Languages xmlns="">
+    <Language code="zh-CN" />
+    <Language code="zh-SG" />
+    <Language code="zh-CHS" />
+    <Language code="zh-Hans" />
+    <Language code="zh" />
+  </Languages>
+  <App xmlns="" ProductID="{732a2204-b66f-481e-8f61-0f9ef721ec66}" Title="小账房" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="汤和果" Description="一个方便、简单、快捷的记账工具。" Publisher="浙江师范大学计算机科学与技术121班" PublisherID="{c115c332-4e76-4c36-911b-e29cba03ed60}">
+    <IconPath IsRelative="true" IsResource="false">Skin\Logo.scale-240.png</IconPath>
+    <Capabilities></Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="AccountBookToken" TaskName="_default">
+        <TemplateFlip>
+          <SmallImageURI IsRelative="true" IsResource="false">Skin\SmallLogo.png</SmallImageURI>
+          <Count>0</Count>
+          <BackgroundImageURI IsRelative="true" IsResource="false">Skin\Square71x71Logo.scale-240.png</BackgroundImageURI>
+          <Title>小账房</Title>
+          <BackContent></BackContent>
+          <BackBackgroundImageURI IsRelative="true" IsResource="false"></BackBackgroundImageURI>
+          <BackTitle></BackTitle>
+          <LargeBackgroundImageURI IsRelative="true" IsResource="false">Skin\WideLogo.png</LargeBackgroundImageURI>
+          <LargeBackContent />
+          <LargeBackBackgroundImageURI IsRelative="true" IsResource="false"></LargeBackBackgroundImageURI>
+          <DeviceLockImageURI IsRelative="true" IsResource="false"></DeviceLockImageURI>
+          <HasLarge>True</HasLarge>
+        </TemplateFlip>
+      </PrimaryToken>
+    </Tokens>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>
+<!-- WPSDK Version 8.0.9900 -->
