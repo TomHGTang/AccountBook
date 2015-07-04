@@ -94,7 +94,7 @@
 
     <!--菜单栏-->
     <phone:PhoneApplicationPage.ApplicationBar>
-        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" BackgroundColor="#FFEB6416">
+        <shell:ApplicationBar ForegroundColor="White" IsVisible="True" IsMenuEnabled="True" BackgroundColor="#FFEB6416">
             <shell:ApplicationBarIconButton x:Name="appbar_buttonAdd" IconUri="/Images/appbar.add.rest.png" Click="appbar_buttonAdd_Click" Text="添加分类"/>            
         </shell:ApplicationBar>
     </phone:PhoneApplicationPage.ApplicationBar>

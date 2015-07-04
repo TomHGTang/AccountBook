@@ -69,6 +69,8 @@ namespace AccountBook
                                     App.accountHelper.SaveToFile();
                                     ToastPrompt tp = new ToastPrompt();
                                     tp.Background = PageTitle.Foreground;
+                                    SolidColorBrush brush = new SolidColorBrush(Color.FromArgb(255, 255, 255, 255));
+                                    tp.Foreground = brush;
                                     tp.Message = "修改成功";
                                     tp.Show();
                                 }
@@ -111,7 +113,6 @@ namespace AccountBook
                     switch (e1.Result)
                     {
                         case CustomMessageBoxResult.LeftButton:
-                            // TODO: 流水中有账户的不能删掉！
                             if(Common.IsAccountDeleteable(delAccount.Name))
                             {
                                 App.accountHelper.Remove(delAccount);
@@ -119,6 +120,8 @@ namespace AccountBook
 
                                 ToastPrompt tp = new ToastPrompt();
                                 tp.Background = PageTitle.Foreground;
+                                SolidColorBrush brush = new SolidColorBrush(Color.FromArgb(255, 255, 255, 255));
+                                tp.Foreground = brush;
                                 tp.Message = "成功删除" + "账户" + " “" + delAccount.Name + "” ";
                                 tp.Show();
                             }
@@ -126,6 +129,8 @@ namespace AccountBook
                             {
                                 ToastPrompt tp = new ToastPrompt();
                                 tp.Background = PageTitle.Foreground;
+                                SolidColorBrush brush = new SolidColorBrush(Color.FromArgb(255,255,255,255));
+                                tp.Foreground = brush;
                                 tp.Message = "无法删除！\n流水中有账户" + " “" + delAccount.Name + "” " + "信息。";
                                 tp.Show();
                             }

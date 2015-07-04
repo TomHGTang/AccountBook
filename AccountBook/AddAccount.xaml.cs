@@ -7,6 +7,7 @@ using Microsoft.Phone.Tasks;
 using System.Windows.Media.Imaging;
 using Coding4Fun.Phone.Controls;
 using System.Windows.Navigation;
+using System.Windows.Media;
 
 namespace AccountBook
 {
@@ -156,6 +157,8 @@ namespace AccountBook
                 return false;
             }
             ToastPrompt tp = new ToastPrompt();
+            SolidColorBrush brush = new SolidColorBrush(Color.FromArgb(255, 255, 255, 255));
+            tp.Foreground = brush;
             tp.Background = pivot.Foreground;
             tp.Message = "保存成功";
             tp.Show();

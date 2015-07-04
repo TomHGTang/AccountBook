@@ -111,7 +111,7 @@
 
     <!--菜单栏-->
     <phone:PhoneApplicationPage.ApplicationBar>
-        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" BackgroundColor="#FFEB6416">
+        <shell:ApplicationBar ForegroundColor="White" IsVisible="True" IsMenuEnabled="True" BackgroundColor="#FFEB6416">
             <shell:ApplicationBarIconButton x:Name="appbar_buttonAdd" IconUri="/Images/appbar.add.rest.png" Click="appbar_buttonAdd_Click" Text="新增"/>
             <shell:ApplicationBarIconButton x:Name="appbar_buttonFinish" IconUri="/Images/appbar.finish.rest.png" Click="appbar_buttonFinish_Click" Text="完成"/>
             <shell:ApplicationBarIconButton x:Name="appbar_buttonCancel" IconUri="/Images/appbar.cancel.rest.png" Click="appbar_buttonCancel_Click" Text="取消"/>

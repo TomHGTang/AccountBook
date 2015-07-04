@@ -39,17 +39,17 @@
                         <TextBlock Foreground="White"  Text="日   期" Margin="20"
                                    FontWeight="Bold" HorizontalAlignment="Center"  />
                     </StackPanel>
-                    <toolkit:DatePicker x:Name="DatePickerBegin" Width="164" />
+                    <toolkit:DatePicker x:Name="DatePickerBegin" Width="164" BorderBrush="White" Foreground="White" />
                     <StackPanel Width="auto">
                         <TextBlock Foreground="White"  Margin="0 20 0 20" Text="至"  FontWeight="Bold" HorizontalAlignment="Center" />
                     </StackPanel>
-                    <toolkit:DatePicker x:Name="DatePickerEnd" Width="164" />
+                    <toolkit:DatePicker x:Name="DatePickerEnd" Width="164" BorderBrush="White" Foreground="White" />
                 </StackPanel>
                 <StackPanel Height="70"  Orientation="Horizontal" Grid.Row="0" VerticalAlignment="Top" >
                     <StackPanel Width="100">
                         <TextBlock Foreground="White"  Margin="20" Text="关键字"  FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"  />
                     </StackPanel>
-                    <TextBox x:Name="keyWords" Width="350"></TextBox>
+                    <TextBox x:Name="keyWords" Width="350" BorderBrush="White" ></TextBox>
                 </StackPanel>
             </StackPanel>           
             <!--记账记录列表头项目-->
@@ -87,7 +87,7 @@
     </Grid>
     <!--菜单栏-->
     <phone:PhoneApplicationPage.ApplicationBar>
-        <shell:ApplicationBar IsVisible="True" BackgroundColor="#FFEB6416" IsMenuEnabled="True">
+        <shell:ApplicationBar ForegroundColor="White" IsVisible="True" BackgroundColor="#FFEB6416" IsMenuEnabled="True">
             <shell:ApplicationBarIconButton IconUri="/Images/appbar.Search.png" Text="查询" Click="ApplicationBarIconButton_Click"/>
         </shell:ApplicationBar>
     </phone:PhoneApplicationPage.ApplicationBar>

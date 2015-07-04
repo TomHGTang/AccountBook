@@ -82,6 +82,8 @@ namespace AccountBook
                 return false;
             }
             ToastPrompt tp = new ToastPrompt();
+            SolidColorBrush brush = new SolidColorBrush(Color.FromArgb(255, 255, 255, 255));
+            tp.Foreground = brush;
             tp.Background = PageTitle.Foreground;
             tp.Message = "保存成功";
             tp.Show();
@@ -120,6 +122,8 @@ namespace AccountBook
                                 {
                                     App.storeHelper.Update(editStore, txtBox.Text.Trim());
                                     ToastPrompt tp = new ToastPrompt();
+                                    SolidColorBrush brush = new SolidColorBrush(Color.FromArgb(255, 255, 255, 255));
+                                    tp.Foreground = brush;
                                     tp.Background = PageTitle.Foreground;
                                     tp.Message = "修改成功";
                                     tp.Show();
@@ -164,6 +168,8 @@ namespace AccountBook
                         case CustomMessageBoxResult.LeftButton:
                             App.storeHelper.Remove(delStore);
                             ToastPrompt tp = new ToastPrompt();
+                            SolidColorBrush brush = new SolidColorBrush(Color.FromArgb(255,255,255,255));
+                            tp.Foreground = brush;
                             tp.Background = PageTitle.Foreground;
                             tp.Message = "成功删除商家" + " “" + delStore.Name + "” ";
                             tp.Show();

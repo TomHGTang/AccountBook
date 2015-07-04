@@ -86,6 +86,8 @@ namespace AccountBook
                 return false;
             }
             ToastPrompt tp = new ToastPrompt();
+            SolidColorBrush brush = new SolidColorBrush(Color.FromArgb(255, 255, 255, 255));
+            tp.Foreground = brush;
             tp.Background = pivot.Foreground;
             tp.Message = "保存成功";
             tp.Show();
@@ -117,6 +119,8 @@ namespace AccountBook
                             App.categoryHelper.SaveToFile();
 
                             ToastPrompt tp = new ToastPrompt();
+                            SolidColorBrush brush = new SolidColorBrush(Color.FromArgb(255,255,255,255));
+                            tp.Foreground = brush;
                             tp.Background = pivot.Foreground;
                             tp.Message = "成功删除" + kind + "分类" + " “" + delCategory.Name + "” ";
                             tp.Show();  
@@ -169,6 +173,8 @@ namespace AccountBook
                                     App.categoryHelper.SaveToFile();
 
                                     ToastPrompt tp = new ToastPrompt();
+                                    SolidColorBrush brush = new SolidColorBrush(Color.FromArgb(255, 255, 255, 255));
+                                    tp.Foreground = brush;
                                     tp.Background = pivot.Foreground;
                                     tp.Message = "修改成功";
                                     tp.Show(); 

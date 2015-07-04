@@ -83,7 +83,7 @@
     </Grid>
     <!--菜单栏-->
     <phone:PhoneApplicationPage.ApplicationBar>
-        <shell:ApplicationBar IsVisible="True" BackgroundColor="#FFEB6416" IsMenuEnabled="True">
+        <shell:ApplicationBar ForegroundColor="White" IsVisible="True" BackgroundColor="#FFEB6416" IsMenuEnabled="True">
             <shell:ApplicationBarIconButton IconUri="/Images/appbar.First.rest.png" Text="上一月" Click="ApplicationBarIconButton_Click"/>
             <shell:ApplicationBarIconButton IconUri="/Images/appbar.Last.rest.png" Text="下一月" Click="ApplicationBarIconButton_Click"/>
         </shell:ApplicationBar>
