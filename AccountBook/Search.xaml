@@ -71,7 +71,7 @@
             <ListBox x:Name="listReport" Margin="0,185,0,30"  Grid.Row="2" >
                 <ListBox.ItemTemplate>
                     <DataTemplate>
-                        <StackPanel Orientation="Vertical">
+                        <StackPanel Orientation="Vertical" Tag="{Binding ID}" Tap="items_Tap">
                             <StackPanel Orientation="Horizontal">
                                 <TextBlock  Foreground="#FFEB6416" FontSize="30"  Text="{Binding Type,  Converter={StaticResource VoucherTypeConverter}}" TextWrapping="NoWrap" HorizontalAlignment="Center"  Width="90" />
                                 <TextBlock  Foreground="#FFEB6416" FontSize="30" Text="{Binding Money}" TextWrapping="NoWrap" HorizontalAlignment="Center" Width="90" />

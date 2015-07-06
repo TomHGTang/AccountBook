@@ -2,6 +2,7 @@
 using System.Windows;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
+using System.Windows.Controls;
 namespace AccountBook
 {
     public partial class YearReport : PhoneApplicationPage
@@ -11,6 +12,28 @@ namespace AccountBook
         {
             InitializeComponent();
         }
+
+        private void items_Tap(object sender, System.Windows.Input.GestureEventArgs e)
+        {
+            StackPanel panel = (StackPanel)sender;
+            short type = Common.GetRecordById(panel.Tag.ToString()).Type;
+            string uri;
+            if (type == 1)
+            {
+                uri = String.Format("/Edit1.xaml?id={0}", panel.Tag);
+            }
+            else if (type == 2)
+            {
+                uri = String.Format("/Edit2.xaml?id={0}", panel.Tag);
+            }
+            else
+            {
+                uri = String.Format("/Edit3.xaml?id={0}", panel.Tag);
+            }
+            PhoneApplicationService.Current.State["id"] = panel.Tag;
+            NavigationService.Navigate(new Uri(uri, UriKind.Relative));
+        }
+
         // 处理页面加载事件
         private void PhoneApplicationPage_Loaded(object sender, RoutedEventArgs e)
         {

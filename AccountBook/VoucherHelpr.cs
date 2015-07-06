@@ -21,6 +21,20 @@ namespace AccountBook
             item.ID = Guid.NewGuid();
             this._data.Add(item);
         }
+        //更新一条记录
+        public void Update(Voucher item)
+        {
+            int index = this._data.FindIndex(c => c.ID == item.ID);
+            this._data[index].Account = item.Account;
+            this._data[index].Account1 = item.Account1;
+            this._data[index].Account2 = item.Account2;
+            this._data[index].Category = item.Category;
+            this._data[index].Desc = item.Desc;
+            this._data[index].DT = item.DT;
+            this._data[index].Money = item.Money;
+            this._data[index].Store = item.Store;
+            this._data[index].Type = item.Type;
+        }
         // 读取记账列表
         public bool LoadFromFile()
         {

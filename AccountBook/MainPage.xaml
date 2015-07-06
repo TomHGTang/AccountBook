@@ -62,7 +62,7 @@
                         <ListBox.ItemTemplate>
                             <!--流水卡片-->
                             <DataTemplate>
-                                <StackPanel Orientation="Horizontal" Margin="12,0,0,0" Height="75">
+                                <StackPanel Orientation="Horizontal" Margin="12,0,0,0" Height="75" Tag="{Binding ID}" Tap="items_Tap">
                                     <StackPanel Background="#FFEB6416" Height="50">
                                         <TextBlock  Foreground="White" FontSize="45" 
                                             Text="{Binding Type, Converter={StaticResource VoucherTypeConverter}}" TextWrapping="NoWrap"   

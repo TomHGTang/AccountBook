@@ -102,6 +102,11 @@ namespace AccountBook
             return -1.0;
         }
 
+        public static Voucher GetRecordById(string id)
+        {
+            return App.voucherHelper.data.Where(c => c.ID == Guid.Parse(id)).FirstOrDefault();
+        }
+
         /// <summary>
         /// 获取所有的记账记录
         /// </summary>

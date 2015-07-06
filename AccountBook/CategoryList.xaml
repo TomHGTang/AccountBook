@@ -1,5 +1,5 @@
 ﻿<phone:PhoneApplicationPage
-    x:Class="AccountBook.AccountList"
+    x:Class="AccountBook.CategoryList"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
@@ -35,28 +35,18 @@
         <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
             <TextBlock x:Name="PageTitle" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Foreground="#FFEB6416" />
             <StackPanel Orientation="Horizontal">
-                <StackPanel Orientation="Horizontal" Margin="15 0 0 10" Width="190">
-                    <Image Source="/Images/in.png" />
-                    <TextBlock  Foreground="#FFEB6416" x:Name="txtBalanceIn"
-                                            TextWrapping="NoWrap" HorizontalAlignment="Left" Margin="8 0 0 0"
-                                            TextAlignment="Left" VerticalAlignment="Center" Width="118" />
-                </StackPanel>
-                <StackPanel Orientation="Horizontal" Margin="12 0 0 10" Width="190">
-                    <Image Source="/Images/out.png" />
-                    <TextBlock  Foreground="#FFEB6416"  x:Name="txtBalanceOut" 
-                                            TextWrapping="NoWrap" HorizontalAlignment="Left" Margin="8 0 0 0"
-                                            TextAlignment="Left" VerticalAlignment="Center" Width="118" />
-                </StackPanel>
-            </StackPanel>
+                <TextBlock x:Name="date" Foreground="#FFEB6416" Margin="15 0 12 10" Width="250" HorizontalAlignment="Left" />
+                <TextBlock x:Name="total" Text="总计：" Foreground="#FFEB6416" Margin="15 0 12 10" Width="150" HorizontalAlignment="Right" />
+            </StackPanel>          
         </StackPanel>
 
         <!--ContentPanel - 在此处放置其他内容-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,-25,12,12">
-            <ListBox x:Name="listAccount" >
+            <ListBox x:Name="listCategory" >
                 <ListBox.ItemTemplate>
                     <!--流水卡片-->
                     <DataTemplate>
-                        <StackPanel Orientation="Horizontal" Margin="12,0,0,0" Height="75" Tag="{Binding ID}" Tap="items_Tap">
+                        <StackPanel Tag="{Binding ID}" Tap="items_Tap" Orientation="Horizontal" Margin="12,0,0,0" Height="75">
                             <StackPanel Background="#FFEB6416" Height="50">
                                 <TextBlock  Foreground="White" FontSize="45" 
                                             Text="{Binding Type, Converter={StaticResource VoucherTypeConverter}}" TextWrapping="NoWrap"   

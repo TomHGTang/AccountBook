@@ -10,11 +10,14 @@ using Microsoft.Phone.Shell;
 
 namespace AccountBook
 {
-    public partial class AccountList : PhoneApplicationPage
+    public partial class CategoryList : PhoneApplicationPage
     {
-        private string id;
+        private string name;
+        private int year;
+        private int month;
+        private int isStore;
 
-        public AccountList()
+        public CategoryList()
         {
             InitializeComponent();
         }
@@ -42,14 +45,25 @@ namespace AccountBook
 
         private void PhoneApplicationPage_Loaded(object sender, RoutedEventArgs e)
         {
-            id = NavigationContext.QueryString["id"];
-            string accountName = Common.GetAccount(id).Name;
-            
-            PageTitle.Text = accountName;
-            txtBalanceIn.Text = "流入 " + Common.GetAccountInSummary(accountName).ToString();
-            txtBalanceOut.Text = "流出 " + Common.GetAccountOutSummary(accountName).ToString();
-
-            listAccount.ItemsSource = Common.GetAccountItems(accountName);
+            name = NavigationContext.QueryString["name"];
+            year = Int32.Parse(NavigationContext.QueryString["year"]);
+            month = Int32.Parse(NavigationContext.QueryString["month"]);
+            isStore = Int32.Parse(NavigationContext.QueryString["isStore"]);
+            IEnumerable<Voucher> list;
+            if(isStore==0)
+            {
+                list = Common.GetAllRecords().Where(c => c.DT.Year == year && c.DT.Month == month && c.Category == name);
+            }
+            else
+            {
+                list = Common.GetAllRecords().Where(c => c.DT.Year == year && c.DT.Month == month && c.Store == name);
+            }
+         
+            PageTitle.Text = name;
+            date.Text = year + "年" + month + "月";
+            total.Text += list.Sum(c => c.Money);
+            listCategory.ItemsSource = list;         
         }
+
     }
 }

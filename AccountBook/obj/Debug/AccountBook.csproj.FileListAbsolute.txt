@@ -220,5 +220,8 @@ D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\StoreSetting.g.cs
 D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\AccountSetting.g.cs
 D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\AddNewAccount.g.cs
 D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\AccountList.g.cs
-D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\MoneyChart.g.cs
 D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\StoreChart.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\CategoryList.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\Edit1.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\Edit3.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\Edit2.g.cs

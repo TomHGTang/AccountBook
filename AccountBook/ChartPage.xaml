@@ -59,7 +59,7 @@
                     <ListBox x:Name="listMouthReport" Margin="40,35,35,80"  Grid.Row="1" >
                         <ListBox.ItemTemplate>
                             <DataTemplate>
-                                <StackPanel Orientation="Vertical">
+                                <StackPanel Orientation="Vertical" x:Name="categoryList" Tag="{Binding Name}" Tap="categoryList_Tap" >
                                     <StackPanel Orientation="Horizontal">
                                         <TextBlock  Foreground="#FFEB6416" FontSize="30"  
                                         Text="{Binding Name}" 

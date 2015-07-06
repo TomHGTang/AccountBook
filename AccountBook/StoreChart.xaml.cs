@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.Windows.Controls.DataVisualization.Charting;
 using System.Windows.Data;
+using System.Windows.Controls;
 
 namespace AccountBook
 {
@@ -114,6 +115,13 @@ namespace AccountBook
             month = DateTime.Today.Month;
             year = DateTime.Today.Year;
             DrawChart();
+        }
+
+        private void storeItem_Tap(object sender, System.Windows.Input.GestureEventArgs e)
+        {
+            StackPanel panel = (StackPanel)sender;
+            string uri = String.Format("/CategoryList.xaml?name={0}&year={1}&month={2}&isStore={3}", panel.Tag, year, month, 1);
+            NavigationService.Navigate(new Uri(uri, UriKind.Relative));
         }
     }
 }

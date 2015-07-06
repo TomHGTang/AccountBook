@@ -120,6 +120,9 @@
   <ItemGroup>
     <Compile Include="Account.cs" />
     <Compile Include="AccountHelper.cs" />
+    <Compile Include="CategoryList.xaml.cs">
+      <DependentUpon>CategoryList.xaml</DependentUpon>
+    </Compile>
     <Compile Include="AccountList.xaml.cs">
       <DependentUpon>AccountList.xaml</DependentUpon>
     </Compile>
@@ -149,6 +152,15 @@
     <Compile Include="Converter\VoucherAccount1Converter.cs" />
     <Compile Include="Converter\VoucherDescConverter.cs" />
     <Compile Include="Converter\VoucherTypeConverter.cs" />
+    <Compile Include="Edit3.xaml.cs">
+      <DependentUpon>Edit3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Edit2.xaml.cs">
+      <DependentUpon>Edit2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Edit1.xaml.cs">
+      <DependentUpon>Edit1.xaml</DependentUpon>
+    </Compile>
     <Compile Include="FinancialNote.cs" />
     <Compile Include="FinancialNoteHelper.cs" />
     <Compile Include="ImageButton.cs" />
@@ -156,9 +168,6 @@
     <Compile Include="IsolatedStorageSettingHelper.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="MoneyChart.xaml.cs">
-      <DependentUpon>MoneyChart.xaml</DependentUpon>
     </Compile>
     <Compile Include="MouthReport.xaml.cs">
       <DependentUpon>MouthReport.xaml</DependentUpon>
@@ -189,6 +198,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </ApplicationDefinition>
+    <Page Include="CategoryList.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="AccountList.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -209,11 +222,19 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="MainPage.xaml">
+    <Page Include="Edit3.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Edit2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Edit1.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="MoneyChart.xaml">
+    <Page Include="MainPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -254,6 +275,7 @@
     <Content Include="Images\appbar.cancel.rest.png" />
     <Content Include="Images\appbar.edit.rest.png" />
     <Content Include="Images\appbar.finish.rest.png" />
+    <Content Include="Images\Appbardelete.png" />
     <Content Include="Images\categpryLogo.png" />
     <Content Include="Images\delete.png" />
     <Content Include="Images\deleteDark.png" />
@@ -274,8 +296,6 @@
     <Content Include="SplashScreenImage.jpg" />
     <Content Include="Toolkit.Content\ApplicationBar.Cancel.png" />
     <Content Include="Toolkit.Content\ApplicationBar.Check.png" />
-    <Resource Include="Images\searchlogo.png" />
-    <Resource Include="Images\setlogo.png" />
     <Content Include="Images\appbar.First.rest.png" />
     <Content Include="Images\appbar.Last.rest.png" />
     <Content Include="Images\appbar.Search.png" />

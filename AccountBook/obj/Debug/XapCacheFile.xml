@@ -1,10 +1,11 @@
-﻿<xapCache source="D:\大学\软件工程\AccountBook\AccountBook\Bin\Debug\AccountBook_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2015-07-04 17:58:10">
-  <file source="D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\AccountBook.dll" archivePath="AccountBook.dll" lastWriteTime="2015-07-04 17:58:09" />
+﻿<xapCache source="D:\大学\软件工程\AccountBook\AccountBook\Bin\Debug\AccountBook_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2015-07-06 22:29:04">
+  <file source="D:\大学\软件工程\AccountBook\AccountBook\obj\Debug\AccountBook.dll" archivePath="AccountBook.dll" lastWriteTime="2015-07-06 22:29:02" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\accountLogo.png" archivePath="Images\accountLogo.png" lastWriteTime="2015-06-25 22:19:01" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\appbar.add.rest.png" archivePath="Images\appbar.add.rest.png" lastWriteTime="2012-01-01 14:53:34" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\appbar.cancel.rest.png" archivePath="Images\appbar.cancel.rest.png" lastWriteTime="2012-01-01 14:53:34" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\appbar.edit.rest.png" archivePath="Images\appbar.edit.rest.png" lastWriteTime="2014-10-15 17:07:24" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\appbar.finish.rest.png" archivePath="Images\appbar.finish.rest.png" lastWriteTime="2012-01-01 14:53:34" />
+  <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\Appbardelete.png" archivePath="Images\Appbardelete.png" lastWriteTime="2013-01-01 18:57:00" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\categpryLogo.png" archivePath="Images\categpryLogo.png" lastWriteTime="2015-06-25 22:18:37" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\delete.png" archivePath="Images\delete.png" lastWriteTime="2015-06-26 08:27:11" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\deleteDark.png" archivePath="Images\deleteDark.png" lastWriteTime="2015-06-26 09:15:24" />
