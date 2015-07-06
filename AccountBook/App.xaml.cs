@@ -24,7 +24,6 @@ namespace AccountBook
         /// <returns>The root frame of the Phone Application.</returns>
         public PhoneApplicationFrame RootFrame { get; private set; }
         public const string AppName = "小账房";
-        public static BudgetHelper budgetHelper;
         public static AccountHelper accountHelper;
         public static VoucherHelpr voucherHelper;
         public static CategoryHelper categoryHelper;
@@ -78,7 +77,6 @@ namespace AccountBook
         {
             //isVIP = Helper.isVIP();
            // isTrial = new LicenseInformation().IsTrial();
-            budgetHelper = new BudgetHelper();
             voucherHelper = new VoucherHelpr();
             categoryHelper = new CategoryHelper();
             accountHelper = new AccountHelper();
@@ -96,7 +94,6 @@ namespace AccountBook
         // This code will not execute when the application is closing
         private void Application_Deactivated(object sender, DeactivatedEventArgs e)
         {
-            budgetHelper.SaveToFile();
             voucherHelper.SaveToFile();
             categoryHelper.SaveToFile();
             accountHelper.SaveToFile();
@@ -108,7 +105,6 @@ namespace AccountBook
         // This code will not execute when the application is deactivated
         private void Application_Closing(object sender, ClosingEventArgs e)
         {
-            budgetHelper.SaveToFile();
             voucherHelper.SaveToFile();
             categoryHelper.SaveToFile();
             accountHelper.SaveToFile();

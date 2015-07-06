@@ -85,22 +85,6 @@ namespace AccountBook
 
         #endregion
 
-        /// <summary>
-        /// 获取预算的金额
-        /// </summary>
-        /// <param name="ItemName">类别名称</param>
-        /// <returns></returns>
-        public static double GetLimitOf(string ItemName)
-        {
-            IEnumerable<Budget> source = from c in App.budgetHelper.data
-                                         where c.ItemName == ItemName
-                                         select c;
-            if (source.Count<Budget>() > 0)
-            {
-                return (double)source.FirstOrDefault<Budget>().Limit;
-            }
-            return -1.0;
-        }
 
         public static Voucher GetRecordById(string id)
         {

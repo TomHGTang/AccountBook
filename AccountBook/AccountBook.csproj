@@ -139,8 +139,6 @@
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
     <Compile Include="AppConfig.cs" />
-    <Compile Include="Budget.cs" />
-    <Compile Include="BudgetHelper.cs" />
     <Compile Include="Category.cs" />
     <Compile Include="CategoryHelper.cs" />
     <Compile Include="ChartData.cs" />
@@ -161,8 +159,6 @@
     <Compile Include="Edit1.xaml.cs">
       <DependentUpon>Edit1.xaml</DependentUpon>
     </Compile>
-    <Compile Include="FinancialNote.cs" />
-    <Compile Include="FinancialNoteHelper.cs" />
     <Compile Include="ImageButton.cs" />
     <Compile Include="IsolatedStorageHelper.cs" />
     <Compile Include="IsolatedStorageSettingHelper.cs" />
