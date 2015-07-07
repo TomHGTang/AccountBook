@@ -22,7 +22,7 @@
     </SupportedCultures>
     <XapOutputs>true</XapOutputs>
     <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
-    <XapFilename>AccountBook_$(Configuration)_$(Platform).xap</XapFilename>
+    <XapFilename>AccountBook_Release_1.1.0.0_AnyCPU.xap</XapFilename>
     <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
     <SilverlightAppEntry>AccountBook.App</SilverlightAppEntry>
     <ValidateXaml>true</ValidateXaml>

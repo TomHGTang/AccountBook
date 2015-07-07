@@ -1,10 +1,11 @@
-﻿<xapCache source="D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\AccountBook_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2015-07-04 16:02:35">
-  <file source="D:\大学\软件工程\AccountBook\AccountBook\obj\Release\AccountBook.dll" archivePath="AccountBook.dll" lastWriteTime="2015-07-04 16:02:33" />
+﻿<xapCache source="D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\AccountBook_Release_1.1.0.0_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2015-07-07 15:26:12">
+  <file source="D:\大学\软件工程\AccountBook\AccountBook\obj\Release\AccountBook.dll" archivePath="AccountBook.dll" lastWriteTime="2015-07-07 15:26:05" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\accountLogo.png" archivePath="Images\accountLogo.png" lastWriteTime="2015-06-25 22:19:01" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\appbar.add.rest.png" archivePath="Images\appbar.add.rest.png" lastWriteTime="2012-01-01 14:53:34" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\appbar.cancel.rest.png" archivePath="Images\appbar.cancel.rest.png" lastWriteTime="2012-01-01 14:53:34" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\appbar.edit.rest.png" archivePath="Images\appbar.edit.rest.png" lastWriteTime="2014-10-15 17:07:24" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\appbar.finish.rest.png" archivePath="Images\appbar.finish.rest.png" lastWriteTime="2012-01-01 14:53:34" />
+  <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\Appbardelete.png" archivePath="Images\Appbardelete.png" lastWriteTime="2013-01-01 18:57:00" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\categpryLogo.png" archivePath="Images\categpryLogo.png" lastWriteTime="2015-06-25 22:18:37" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\delete.png" archivePath="Images\delete.png" lastWriteTime="2015-06-26 08:27:11" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\deleteDark.png" archivePath="Images\deleteDark.png" lastWriteTime="2015-06-26 09:15:24" />
@@ -27,14 +28,14 @@
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\appbar.Last.rest.png" archivePath="Images\appbar.Last.rest.png" lastWriteTime="2012-01-19 18:59:32" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Images\appbar.Search.png" archivePath="Images\appbar.Search.png" lastWriteTime="2012-01-19 20:56:24" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Skin\SmallLogo.png" archivePath="Skin\SmallLogo.png" lastWriteTime="2015-06-24 11:05:35" />
-  <file source="D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2015-06-29 23:45:03" />
+  <file source="D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2015-07-07 15:26:11" />
   <file source="D:\大学\软件工程\AccountBook\Dll\Coding4Fun.Phone.Controls.dll" archivePath="Coding4Fun.Phone.Controls.dll" lastWriteTime="2011-12-21 18:11:30" />
   <file source="D:\大学\软件工程\AccountBook\Dll\Coding4Fun.Phone.Controls.Toolkit.dll" archivePath="Coding4Fun.Phone.Controls.Toolkit.dll" lastWriteTime="2011-12-21 18:11:32" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="2013-01-01 18:57:00" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.Maps.dll" archivePath="Microsoft.Phone.Controls.Maps.dll" lastWriteTime="2013-01-01 18:57:00" />
-  <file source="D:\大学\软件工程\AccountBook\Dll\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="2015-06-26 18:20:16" />
+  <file source="D:\大学\软件工程\AccountBook\Dll\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="2015-07-04 17:36:31" />
   <file source="D:\大学\软件工程\AccountBook\Dll\Microsoft.Windows.Controls.DataVisualization.dll" archivePath="Microsoft.Windows.Controls.DataVisualization.dll" lastWriteTime="2011-10-16 16:47:30" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Skin\Logo.scale-240.png" archivePath="Skin\Logo.scale-240.png" lastWriteTime="2015-06-24 11:51:29" />
   <file source="D:\大学\软件工程\AccountBook\AccountBook\Skin\Square71x71Logo.scale-240.png" archivePath="Skin\Square71x71Logo.scale-240.png" lastWriteTime="2015-06-24 11:03:05" />
-  <file source="D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2015-06-30 07:37:54" />
+  <file source="D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2015-07-07 15:26:11" />
 </xapCache>

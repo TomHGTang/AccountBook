@@ -1,8 +1,10 @@
 D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\AccountBook.dll
 D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\AccountBook.pdb
+D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\AccountBook.dll.CodeAnalysisLog.xml
+D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\AccountBook.dll.lastcodeanalysissucceeded
 D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\AppManifest.xaml
 D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\Properties\WMAppManifest.xml
-D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\AccountBook_Release_AnyCPU.xap
+D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\AccountBook_Release_1.1.0.0_AnyCPU.xap
 D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\Coding4Fun.Phone.Controls.dll
 D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
 D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\Microsoft.Phone.Controls.dll
@@ -10,13 +12,16 @@ D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\Microsoft.Phone.Contr
 D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
 D:\大学\软件工程\AccountBook\AccountBook\Bin\Release\Microsoft.Windows.Controls.DataVisualization.dll
 D:\大学\软件工程\AccountBook\AccountBook\obj\Release\App.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Release\CategoryList.g.cs
 D:\大学\软件工程\AccountBook\AccountBook\obj\Release\AccountList.g.cs
 D:\大学\软件工程\AccountBook\AccountBook\obj\Release\AddAccount.g.cs
 D:\大学\软件工程\AccountBook\AccountBook\obj\Release\AddNewAccount.g.cs
 D:\大学\软件工程\AccountBook\AccountBook\obj\Release\CategorySetting.g.cs
 D:\大学\软件工程\AccountBook\AccountBook\obj\Release\ChartPage.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Release\Edit3.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Release\Edit2.g.cs
+D:\大学\软件工程\AccountBook\AccountBook\obj\Release\Edit1.g.cs
 D:\大学\软件工程\AccountBook\AccountBook\obj\Release\MainPage.g.cs
-D:\大学\软件工程\AccountBook\AccountBook\obj\Release\MoneyChart.g.cs
 D:\大学\软件工程\AccountBook\AccountBook\obj\Release\MouthReport.g.cs
 D:\大学\软件工程\AccountBook\AccountBook\obj\Release\StoreChart.g.cs
 D:\大学\软件工程\AccountBook\AccountBook\obj\Release\StoreSetting.g.cs
@@ -27,4 +32,3 @@ D:\大学\软件工程\AccountBook\AccountBook\obj\Release\AccountBook.g.resourc
 D:\大学\软件工程\AccountBook\AccountBook\obj\Release\AccountBook.dll
 D:\大学\软件工程\AccountBook\AccountBook\obj\Release\AccountBook.pdb
 D:\大学\软件工程\AccountBook\AccountBook\obj\Release\XapCacheFile.xml
-D:\大学\软件工程\AccountBook\AccountBook\obj\Release\AccountBook.csprojResolveAssemblyReference.cache
